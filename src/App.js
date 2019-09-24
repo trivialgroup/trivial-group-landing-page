@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h className="trivial-group-header">
+        <h1 className="trivial-group-header">
           Trivial Group
-        </h>
+        </h1>
       </header>
     </div>
   );
