@@ -1,5 +1,5 @@
 import React from 'react';
-import { ReactComponent as Logo } from './component/images/trivial-logo-13_Dark.svg';
+import { ReactComponent as Logo } from './assets/img/trivial-logo-13_Dark.svg';
 import './App.css';
 
 function App() {
